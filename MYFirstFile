@@ -1,1 +1,12 @@
 Hi.. Your Future will be bright.
+
+
+Git commands
+
+git status - check the status
+git add filename  - adds the file
+git commit -m "comments" - commits the changes
+git push - push the changes to git
+
+Below steps to generate token in GitHub:
+Settings -> Developer settings -> Personal access tokens -> Tokens (Classic)  -> Generate Token
